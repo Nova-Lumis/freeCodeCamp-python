@@ -6,7 +6,7 @@
 </p>
 
 ## What I've learned
-- Using query in SQL, especially the most common one.
+- Using query in SQL, especially some which commonly used.
 - CRUD on database and table.
 - Constraint with PRIMARY KEY, FOREIGN KEY, and UNIQUE.
 ## Further Improvement
