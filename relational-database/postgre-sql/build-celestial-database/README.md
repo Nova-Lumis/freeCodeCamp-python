@@ -8,6 +8,6 @@
 ## What I've learned
 - Using query in SQL, especially the most common one.
 - CRUD on database and table.
-- Constraint with FOREIGN KEY and UNIQUE.
+- Constraint with PRIMARY KEY, FOREIGN KEY, and UNIQUE.
 ## Further Improvement
 - Need to learn how to join two table or more, using INNER JOIN, etc.
